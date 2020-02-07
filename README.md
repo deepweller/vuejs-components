@@ -10,4 +10,4 @@ vuejs custom components
 
 ## Components
 
-* [Date Picker](https://github.com/deepweller/vuejs-components/tree/master/components)
+* [Date Picker](https://github.com/deepweller/vuejs-components/tree/master/components/DatePicker)
