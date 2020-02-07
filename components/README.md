@@ -22,6 +22,8 @@
 </template>
 
 <script>
+import DatePicker from './DatePicker';
+	
 export default {
     data() {
         return {
